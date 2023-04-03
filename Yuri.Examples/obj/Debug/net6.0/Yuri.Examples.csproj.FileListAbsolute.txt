@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\bin\Debug\net6.0\Yuri.Examples.exe
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\bin\Debug\net6.0\Yuri.Examples.deps.json
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\bin\Debug\net6.0\Yuri.Examples.runtimeconfig.json
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\bin\Debug\net6.0\Yuri.Examples.dll
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\bin\Debug\net6.0\Yuri.Examples.pdb
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.dll
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\refint\Yuri.Examples.dll
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.pdb
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\Yuri.Examples.genruntimeconfig.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Examples\obj\Debug\net6.0\ref\Yuri.Examples.dll

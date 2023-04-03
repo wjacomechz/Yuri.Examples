@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Yuri.WorkerService.WebSocket": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

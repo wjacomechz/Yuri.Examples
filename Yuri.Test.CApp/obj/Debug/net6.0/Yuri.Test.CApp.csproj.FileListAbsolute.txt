@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\bin\Debug\net6.0\Yuri.Test.CApp.exe
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\bin\Debug\net6.0\Yuri.Test.CApp.deps.json
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\bin\Debug\net6.0\Yuri.Test.CApp.runtimeconfig.json
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\bin\Debug\net6.0\Yuri.Test.CApp.dll
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\bin\Debug\net6.0\Yuri.Test.CApp.pdb
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.dll
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\refint\Yuri.Test.CApp.dll
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.pdb
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\Yuri.Test.CApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\Yuri.Examples\Yuri.Test.CApp\obj\Debug\net6.0\ref\Yuri.Test.CApp.dll
